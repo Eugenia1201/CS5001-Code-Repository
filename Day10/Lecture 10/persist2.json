@@ -1,0 +1,18 @@
+{
+  "UUID('89a39efa-1cb2-4ede-9df9-d50b849abdb2')": {
+    "py/object": "__main__.Dog",
+    "name": "Fido",
+    "id": {
+      "py/object": "uuid.UUID",
+      "hex": "89a39efa1cb24ede9df9d50b849abdb2"
+    }
+  },
+  "UUID('195679db-6971-4d92-b9d1-a3d8f24fda2e')": {
+    "py/object": "__main__.Dog",
+    "name": "Bingo",
+    "id": {
+      "py/object": "uuid.UUID",
+      "hex": "195679db69714d92b9d1a3d8f24fda2e"
+    }
+  }
+}

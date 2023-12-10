@@ -1,0 +1,32 @@
+ROOM/401/5
+ROOM/402/5
+ROOM/403/5
+COURSE/101/Astronomy/401
+COURSE/102/Biology/403
+COURSE/103/Chemistry/402
+COURSE/104/Design/402
+COURSE/105/Economics/401
+STUDENT/Jojo Dada/64 Fifth Avenue, Issaquah, WA/105
+STUDENT/Ququ Nene/454 Main Street, Seattle, WA/104
+STUDENT/Abba Soso/240 University Avenue, Seattle, WA/105
+STUDENT/Jojo RaRa/361 University Avenue, Seattle, WA/105
+STUDENT/Xixi Illi/211 Fifth Avenue, Issaquah, WA/102
+STUDENT/Lala Xixi/750 Terry Avenue N, Seattle, WA/101
+STUDENT/Elle RaRa/375 Fifth Avenue, Issaquah, WA/103
+STUDENT/Goog Vava/697 University Avenue, Seattle, WA/102
+STUDENT/Vava Dada/189 Terry Avenue N, Seattle, WA/101
+STUDENT/Hihi Bibi/588 Fifth Avenue, Issaquah, WA/104
+STUDENT/Ququ Goog/849 Main Street, Seattle, WA/103
+STUDENT/Jojo Kuku/8 Main Street, Seattle, WA/103
+STUDENT/Coco Hihi/441 Fifth Avenue, Issaquah, WA/103
+STUDENT/Zozo Coco/112 Main Street, Seattle, WA/105
+STUDENT/Goog Abba/141 Terry Avenue N, Seattle, WA/102
+STUDENT/RaRa Hihi/738 Fifth Avenue, Issaquah, WA/105
+STUDENT/Illi Tutu/814 University Avenue, Seattle, WA/103
+STUDENT/Soso Coco/523 Main Street, Seattle, WA/105
+STUDENT/Xixi Oppo/305 Fifth Avenue, Issaquah, WA/101
+STUDENT/Illi Oppo/126 Fifth Avenue, Issaquah, WA/104
+STUDENT/Goog Kuku/836 Main Street, Seattle, WA/102
+STUDENT/Fafa Fafa/800 University Avenue, Seattle, WA/101
+STUDENT/Ullu Soso/828 Main Street, Seattle, WA/105
+STUDENT/Hihi Nene/470 Terry Avenue N, Seattle, WA/105

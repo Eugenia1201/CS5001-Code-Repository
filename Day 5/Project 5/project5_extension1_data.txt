@@ -1,0 +1,55 @@
+HALL/A1/10
+HALL/A2/10
+HALL/A3/10
+HALL/A4/20
+HALL/A5/20
+MOVIE/The Shawshank Redemption/Drama/A5
+MOVIE/The Godfather/Crime/A2
+MOVIE/Pulp Fiction/Crime/A5
+MOVIE/The Dark Knight/Action/A2
+MOVIE/Forrest Gump/Drama/A1
+MOVIE/Schindler's List/Biography/A5
+MOVIE/The Lord of the Rings: The Return of the King/Fantasy/A5
+MOVIE/Inception/Sci-Fi/A4
+MOVIE/The Matrix/Sci-Fi/A3
+MOVIE/The Avengers/Action/A2
+AUDIENCE/Liam/Software Developer/35/The Godfather
+AUDIENCE/Ethan/Electrician/38/The Lord of the Rings: The Return of the King
+AUDIENCE/Scarlett/Police Officer/32/The Godfather
+AUDIENCE/Noah/Chef/35/Inception
+AUDIENCE/Joseph/Chef/35/The Avengers
+AUDIENCE/Michael/Accountant/30/Schindler's List
+AUDIENCE/Nicholas/Chef/45/The Avengers
+AUDIENCE/Alexander/Police Officer/47/Forrest Gump
+AUDIENCE/Scarlett/Teacher/29/Schindler's List
+AUDIENCE/Joseph/Police Officer/25/The Dark Knight
+AUDIENCE/Joseph/Accountant/22/Pulp Fiction
+AUDIENCE/Ethan/Engineer/36/The Lord of the Rings: The Return of the King
+AUDIENCE/Ella/Teacher/47/Inception
+AUDIENCE/Ava/Chef/29/The Matrix
+AUDIENCE/Sophia/Software Developer/54/The Matrix
+AUDIENCE/Anthony/Engineer/54/The Shawshank Redemption
+AUDIENCE/Samuel/Teacher/23/The Lord of the Rings: The Return of the King
+AUDIENCE/Liam/Police Officer/29/Forrest Gump
+AUDIENCE/Joseph/Electrician/45/The Shawshank Redemption
+AUDIENCE/Charlotte/Writer/39/Pulp Fiction
+AUDIENCE/Joseph/Graphic Designer/45/The Godfather
+AUDIENCE/Ava/Police Officer/22/The Godfather
+AUDIENCE/Evelyn/Doctor/36/The Avengers
+AUDIENCE/Mason/Teacher/55/The Lord of the Rings: The Return of the King
+AUDIENCE/Noah/Doctor/34/The Avengers
+AUDIENCE/Harper/Software Developer/27/Forrest Gump
+AUDIENCE/Charlotte/Doctor/49/Forrest Gump
+AUDIENCE/Oliver/Accountant/49/Forrest Gump
+AUDIENCE/Charlotte/Chef/31/Inception
+AUDIENCE/Ethan/Writer/26/The Avengers
+AUDIENCE/Oliver/Doctor/38/The Godfather
+AUDIENCE/Amelia/Software Developer/22/The Avengers
+AUDIENCE/Mason/Teacher/40/Inception
+AUDIENCE/Michael/Police Officer/28/The Dark Knight
+AUDIENCE/Harper/Software Developer/44/The Matrix
+AUDIENCE/Liam/Engineer/37/The Shawshank Redemption
+AUDIENCE/William/Engineer/47/The Dark Knight
+AUDIENCE/Olivia/Chef/35/The Dark Knight
+AUDIENCE/Abigail/Doctor/51/The Godfather
+AUDIENCE/Matthew/Software Developer/37/The Godfather

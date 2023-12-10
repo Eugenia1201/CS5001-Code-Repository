@@ -1,0 +1,74 @@
+ROOM/201/8
+ROOM/202/8
+ROOM/203/8
+ROOM/204/8
+ROOM/205/8
+ROOM/206/8
+COURSE/101/Astronomy
+COURSE/102/Biology
+COURSE/103/Chemistry
+COURSE/104/Design
+COURSE/105/Economics
+STUDENT/Yaya Hihi/2 Fifth Avenue, Issaquah, WA/2067422872/305,306
+STUDENT/Tutu RaRa/152 Terry Avenue N, Seattle, WA/2062233344/306
+STUDENT/Momo Yaya/505 Main Street, Seattle, WA/2069748566/315
+STUDENT/Fafa Hihi/632 University Avenue, Seattle, WA/2066245364/301,310
+STUDENT/Abba Coco/445 University Avenue, Seattle, WA/2061470414/302,304,314
+STUDENT/Fafa Oppo/630 Main Street, Seattle, WA/2062213179/315
+STUDENT/Abba Popo/71 University Avenue, Seattle, WA/2068027555/303,304,311
+STUDENT/Soso Goog/244 Terry Avenue N, Seattle, WA/2064272066/
+STUDENT/Wowo Soso/992 Fifth Avenue, Issaquah, WA/2062216372/301,307
+STUDENT/Coco Yaya/42 Terry Avenue N, Seattle, WA/2062543668/310,312
+STUDENT/Popo Illi/222 Terry Avenue N, Seattle, WA/2068138990/304,305,306
+STUDENT/Yaya Fafa/748 Terry Avenue N, Seattle, WA/2063188258/307,309,314
+STUDENT/Bibi Soso/87 Main Street, Seattle, WA/2069322021/308,309,310,314
+STUDENT/Jojo Tutu/847 Terry Avenue N, Seattle, WA/2062594787/302,304,314
+STUDENT/Kuku Abba/572 Main Street, Seattle, WA/2062561568/301,303,304,313
+STUDENT/Tutu Yaya/2 Main Street, Seattle, WA/2065947927/306,307,312,315
+STUDENT/Lala Bibi/346 University Avenue, Seattle, WA/2063079859/303,305,307,308
+STUDENT/Fafa Fafa/894 Fifth Avenue, Issaquah, WA/2067267746/301,302,304,307,313
+STUDENT/Momo Vava/194 Main Street, Seattle, WA/2064500601/305,307,308,310,314
+STUDENT/Soso Soso/25 Fifth Avenue, Issaquah, WA/2065070968/301,304
+STUDENT/Wowo Coco/692 Terry Avenue N, Seattle, WA/2067856455/305,308,310
+STUDENT/Dada Momo/680 Terry Avenue N, Seattle, WA/2068035997/304,310,313
+STUDENT/Zozo Goog/301 Fifth Avenue, Issaquah, WA/2063002121/302,310,311
+STUDENT/Oppo Wowo/854 University Avenue, Seattle, WA/2067563798/303,309,315
+STUDENT/Jojo RaRa/452 University Avenue, Seattle, WA/2067690466/305
+STUDENT/Vava RaRa/482 University Avenue, Seattle, WA/2064059068/302,303,306,307
+STUDENT/Soso Popo/991 Terry Avenue N, Seattle, WA/2068326406/302,303,309,312,314
+STUDENT/Popo Bibi/969 Main Street, Seattle, WA/2061967301/305,311
+STUDENT/Momo RaRa/153 Terry Avenue N, Seattle, WA/2061246980/306,311,312,315
+STUDENT/Yaya Jojo/310 Terry Avenue N, Seattle, WA/2062550622/306,313,315
+STUDENT/Nene Zozo/81 Fifth Avenue, Issaquah, WA/2068373461/303,309,312
+STUDENT/Goog RaRa/838 University Avenue, Seattle, WA/2068546579/301,303,306,313,314
+STUDENT/Ququ Nene/988 Terry Avenue N, Seattle, WA/2063089947/308,312
+STUDENT/Popo Ullu/647 Fifth Avenue, Issaquah, WA/2063677661/312
+STUDENT/Abba Illi/329 University Avenue, Seattle, WA/2061049094/313
+STUDENT/Elle Hihi/361 University Avenue, Seattle, WA/2067720673/307,309,310
+STUDENT/Ququ Momo/316 Main Street, Seattle, WA/2063017736/304,308,311,313
+STUDENT/RaRa Yaya/205 Main Street, Seattle, WA/2062752835/301,311,314
+STUDENT/Nene Fafa/331 University Avenue, Seattle, WA/2062856957/302
+STUDENT/Oppo Fafa/999 Main Street, Seattle, WA/2062090887/301,310
+FACULTY/Hihi Kuku/466 Main Street, Seattle, WA/2069263525/307,311,313,315
+FACULTY/Momo Dada/276 Terry Avenue N, Seattle, WA/2063043105/302,308
+FACULTY/Tutu Wowo/907 Main Street, Seattle, WA/2061935999/306,310
+FACULTY/Illi Abba/950 Terry Avenue N, Seattle, WA/2061667185/303,304,309,314
+FACULTY/Goog Zozo/549 Fifth Avenue, Issaquah, WA/2063841292/
+FACULTY/Dada Bibi/287 Fifth Avenue, Issaquah, WA/2067235460/301,305
+FACULTY/Ullu Fafa/510 Fifth Avenue, Issaquah, WA/2069209597/
+FACULTY/Yaya Elle/530 Terry Avenue N, Seattle, WA/2061621683/312
+SECTION/301/101/201/Monday
+SECTION/302/101/202/Friday
+SECTION/303/101/202/Wednesday
+SECTION/304/102/205/Wednesday
+SECTION/305/102/205/Tuesday
+SECTION/306/102/201/Tuesday
+SECTION/307/103/203/Monday
+SECTION/308/103/204/Tuesday
+SECTION/309/103/201/Friday
+SECTION/310/104/204/Monday
+SECTION/311/104/202/Monday
+SECTION/312/104/205/Thursday
+SECTION/313/105/206/Tuesday
+SECTION/314/105/202/Monday
+SECTION/315/105/205/Wednesday

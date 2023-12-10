@@ -1,0 +1,63 @@
+1. Program itself is structured as :
+    a/Constants
+    b/Global Variables
+        a1/window = 
+        a2/the_forest = None
+    c/Graphics Funciton
+        b1/on_draw() window event
+    d/Project Classes
+    e/Application
+        d1/Class App
+            def run():
+                global the_forest #the_forest is declared as the global variabel 
+                the_forest = Forest() #now instantiate it here
+
+
+2. Take all the constants out and declare at the beginning 
+    (Also assign values)
+    (Including all the delta values):
+    - WINDOW_WIDTH
+    - WINDOW_HEIGHT
+    - WINDOW_MARGIN
+    - TREE_SIZE_MIN
+    - TREE_SIZE_MAX
+    - N_TREES_MIN
+    - N_TREES_MAX
+    - BABY_DY_MIN
+    - BABY_DY_MAX
+    - BABY_DX_MIN
+    - BABY_DX_MAX
+    - BABY_SIZE
+    - ADULT_SIZE
+    - MOVE_LIMIT
+
+3. When drawing the tree, use the x,y as the center of the bottom of the trunk,
+    and apply to the offset of x and y only, e.g.(x-(size*0.56), y+(size*0.36))
+
+
+Design point:
+1. How do we remember things? in Objects? in global variables?
+2. Does that object needs this information?
+3. How do we move data from place to place? put into a parameter? call that parameter/Constants 
+4. Subclassing (Flyer's - slight variation. Put the variation in the subclass's move() and then 
+    call super's move() method.) -> Decorator Pattern. This function is the decorator of that function. 
+5. All the animals could be put into a Interface. 
+
+class AnimalGroup:
+    """
+    This is an interface for Family and Flock to show the methods they have in common 
+    """
+    def move(self):
+        pass
+    def draw(self):
+        pass
+6. When getting more formal, Animal class goes into a separate module, so is AnimalGroup.
+   Minimize the coupling. Also have to split the constants into separate modules. 
+7. Standard Configuration for python files. ## To Search (Add a config file and read it into the main program)
+
+
+Validate Input
+Graphic User Interface
+Exceptions:
+Catch all the exception and put them into a log file, which later on will be passed to customer services to analyze
+Section numbers for documentations
